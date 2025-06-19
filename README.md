@@ -79,4 +79,4 @@ The application allows broadband customers to buy plans, track usage, make payme
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/nvidia-billing-system.git
+   https://github.com/amogh68/fibernetbroadband/tree/main
